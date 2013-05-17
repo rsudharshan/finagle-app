@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package sample.http;
 import com.twitter.concurrent.ChannelSource;
 import com.twitter.finagle.Service;
